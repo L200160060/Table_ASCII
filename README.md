@@ -1,2 +1,2 @@
 # Table_ASCII
-#Table ASCII Sistem Manajemen Basis Data
+Tabel ASCII sistem management basis data
